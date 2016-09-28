@@ -1,0 +1,33 @@
+﻿.para1 {
+    font-family: Arial;
+    font-weight: 700;
+    font-size: 22pt;
+    color: steelblue;
+    margin-left: 500px;
+    max-width: 480px;
+    padding-top: 50px;
+     
+}
+.para2 {
+    font-family: Arial;
+    font-size: 12pt;
+    margin-left: 500px;
+    font-style: italic;
+    padding-top: 50px;
+}
+
+.picture2 {
+    margin-left: 500px;
+    padding-top: 50px;
+
+}
+.para3 {
+    font-family:Arial, Helvetica, sans-serif;
+    color:darkgrey;
+    font-weight: 700;
+}
+.para4 {
+    font-family:Arial, Helvetica, sans-serif;
+    color:darkgrey;
+    font-weight: 700;
+}
